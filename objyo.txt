@@ -3,4 +3,4 @@ Edad:18 años
 Status: estudiante
 Pasión: Programer
 
-Soy el más macho.
+Hoy hablaremos de su historia.
