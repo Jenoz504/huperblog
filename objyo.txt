@@ -1,6 +1,5 @@
 Nombre:Carlos Daniel Martinez
 Edad:18 años
 Status: estudiante
-Pasión: Programer
-
-Hoy hablaremos de su historia.
+Pasión: Programación
+Macho mashote que seré
